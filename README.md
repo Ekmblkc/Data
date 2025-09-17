@@ -1,2 +1,3 @@
 # Data
-I dont know
+This is my first repository.
+I am looking to learn more.
